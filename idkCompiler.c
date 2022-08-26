@@ -64,7 +64,7 @@ void idk_compiler(char* code) {
                         case 'd':
                             ptr--;
                             break;
-                        case '|':
+                        case '@':
                             bucket = data[ptr];
                             break;
                         
