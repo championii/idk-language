@@ -2,9 +2,8 @@
 *  [general info](#general-info)
 *  [example](#Example)
 *  [usage](#usage)
-*  [advanced usage](#advanced-usage)
 *  [setup](#setup)
-*  [final note](#final note)
+*  [final note](#final-note)
 
 ## general info
 idk is the eosteric programming language that is designed to hurt your brain as much as possible.
