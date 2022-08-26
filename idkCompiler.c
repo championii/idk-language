@@ -15,7 +15,8 @@ void idk_compiler(char* code) {
         data[x] = x+1;
     }
 
-    while (*code++ != 0) {
+    while (*code != 0) {
+        *code++;
         switch(*code) {
             case 'i':
                 ptr++;
