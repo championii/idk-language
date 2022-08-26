@@ -93,11 +93,6 @@ void idk_compiler(char* code) {
 
 
 int main(int argc, char **argv) {
-
-    /*
-    char* test_code = ".iiiii iiiii II ?d|i*? iIIIII ?dd|ii*??d|ii*? ?ddd|iii/? d?d|iii+?IIk d?ii|+?Ik ?i|+?IIIIIIIk \
-    k ?i|+?IIIk  dddddd?d|ddd+?IIkiiiiiiiiii  ?i|+?IIIIIIIIkdk?ii|+?IIIkdddkdddkdd?d|i+?IIIk";
-    */
    
     char buff[FILE_SIZE];
     FILE *f = fopen(argv[1], "r");
